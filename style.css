@@ -23,6 +23,7 @@
     align-items: flex-end;
     vertical-align: bottom;
     text-decoration: none;
+    margin-right: 14px;
 }
 .header{
     display: flex;
@@ -43,4 +44,21 @@
 
 .slider{
     margin-top: 14px;
+}
+
+.text_items {
+    /* Playlist-name */
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 13.5px;
+line-height: 17px;
+margin-top: 7px;
+/* or 126% */
+
+
+color: #FFFFFF;
+width: 136px;
+height: 34px;
 }
