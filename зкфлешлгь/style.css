@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+.text {
+    font-family: 'Jost', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 32px;
+    color: #FFFFFF;
+
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0%;
+}
+.little_text {
+    font-family: Jost;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 32px;
+    /* display: flex; */
+    align-items: flex-end;
+    vertical-align: bottom;
+    text-decoration: none;
+}
+.header{
+    display: flex;
+}
+
+.slider_items {
+    top: 17px;
+    margin-right: 14px;
+}
+
+
+.slick-track {
+    display: flex;
+    align-items: flex-start;
+}
+.slick-list {
+}
+
+.slider{
+    margin-top: 14px;
+}
