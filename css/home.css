@@ -1,0 +1,89 @@
+main {
+	width: 100vw;
+	padding: 0 16px;
+	/* padding-top: 69px / 41px */
+	padding-top: 69px;
+	padding-bottom: 80px;
+	overflow: hidden;
+}
+
+.albums-list {
+	padding-bottom: 22px;
+	margin-bottom: 27px;
+	border-bottom: 1px solid #535353;
+}
+
+.albums-list_header {
+	width: 100%;
+	height: 32px;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+
+.albums-list_header h2 {
+	font-size: 22px;
+}
+
+.albums-list_header a {
+	font-size: 15px;
+	color: #C5467E;
+
+}
+
+.banner {
+	height: 160px;
+	background-color: #01B3F3;
+	border-radius: 8px;
+	padding: 16px;
+	margin-bottom: 27px;
+	color: white;
+	/* Тут адрес к фону баннера */
+	background-image: url(../);
+	background-size: cover;
+	background-position: center
+}
+
+.banner h2 {
+	font-size: 26px;
+	font-weight: 500;
+	line-height: 37px;
+	margin-bottom: 16px;
+}
+
+.banner p {
+	width: 175px;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+/* Slider */
+
+.slider_items {
+    top: 17px;
+    margin-right: 14px;
+	cursor: pointer;
+}
+.slick-track {
+    display: flex;
+    align-items: flex-start;
+}
+.slider{
+    margin-top: 14px;
+}
+
+.text_items {
+    /* Playlist-name */
+	font-family: Jost;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13.5px;
+	line-height: 17px;
+	margin-top: 7px;
+	/* or 126% */
+	color: #FFFFFF;
+	width: 136px;
+	height: 34px;
+}
+
+/* /slider */
