@@ -39,7 +39,7 @@ main {
 	margin-bottom: 27px;
 	color: white;
 	/* Тут адрес к фону баннера */
-	background-image: url(../);
+	background-image: url(../Popular.png);
 	background-size: cover;
 	background-position: center
 }

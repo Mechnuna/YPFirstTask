@@ -42,7 +42,8 @@ body {
 	width: 100%;
 	display: flex;
 	justify-content: flex-end;
-	margin-bottom: 45px;
+	/* margin-bottom: 45px; */
+	margin-bottom: 5%;
 }
 
 .player-menu-btn {
@@ -52,9 +53,10 @@ body {
 .player-cover {
 	width: 100%;
 	max-width: calc((100vh - 42px) / 2);
-	/* Раскомментируй, как поменяешь обложку на исходник (в HTML)*/
+	/* Раскомментировать, как поменяю обложку на исходник (в HTML)*/
 	/* filter: drop-shadow(0px 14px 24px rgba(0, 0, 0, 0.5)); */
-	margin-bottom: 24px;
+	/* margin-bottom: 24px; -- очень странный отступ без адаптива */
+	margin-bottom: 5%;
 }
 
 .player-info {
