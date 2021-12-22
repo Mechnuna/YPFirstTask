@@ -6,7 +6,8 @@ body {
 }
 
 main {
-	width: 100vw;
+/* 	width: 100vw; */
+	width 375px;
 	/* padding-top: 69px / 41px */
 	padding-top: 69px;
 	padding-bottom: 80px;
