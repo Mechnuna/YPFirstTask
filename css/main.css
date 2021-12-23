@@ -3,7 +3,8 @@
 body {
 	width: 375px;
 	margin: 0;
-	background-color: #252A2E;
+/* 	background-color: #252A2E; */
+	background-color: white;
 	font-family: 'Jost', sans-serif;
     	font-weight: 400;
 }
