@@ -5,7 +5,7 @@ body {
 .player {
 /* 	width: 100vw; */
 	width: 375px;
-	height: calc(100vh - 72px);
+	height: 650px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -18,7 +18,7 @@ body {
 	padding: 0 16px;
 	transition: .3s ease-in-out;
 	box-shadow: 0 0 10px rgb(0 0 0 / 50%);
-	margin-bottom: 50px;
+	margin-bottom: calc(100vh - 700px);
 }
 
 .player-hidden {
