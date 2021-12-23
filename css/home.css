@@ -6,7 +6,6 @@ main {
 	padding-top: 69px;
 	padding-bottom: 80px;
 	overflow: hidden;
-	margin-left: calc((100%-375px)/2);
 }
 
 .albums-list {
