@@ -18,7 +18,7 @@ body {
 	padding: 0 16px;
 	transition: .3s ease-in-out;
 	box-shadow: 0 0 10px rgb(0 0 0 / 50%);
-	margin-bottom: calc(100vh - 700px);
+	margin-bottom: calc(100vh - 680px);
 }
 
 .player-hidden {
