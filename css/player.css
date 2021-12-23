@@ -17,6 +17,7 @@ body {
 	border-radius: 50px 50px 0 0;
 	padding: 0 16px;
 	transition: .3s ease-in-out;
+	box-shadow: 0 0 10px rgb(0 0 0 / 50%);
 }
 
 .player-hidden {
