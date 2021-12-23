@@ -1,13 +1,13 @@
-body {
+/* body {
 	
-}
+} */
 
 main {
 /* 	width: 100vw; */
 	width 375px;
 	/* padding-top: 69px / 41px */
 	padding-top: 69px;
-	padding-bottom: 80px;
+	/* padding-bottom: 80px; */
 	overflow: hidden;
 	background-image: url(../img/bg.png);
 	background-size: 200%;

@@ -30,3 +30,8 @@ button {
 * {
 	box-sizing: border-box;
 }
+
+.main_main{
+	height: 600px;
+    overflow: auto;
+}
