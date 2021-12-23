@@ -88,4 +88,8 @@ main {
 	height: 34px;
 }
 
+.img_cover{
+	border-radius: 8px;
+}
+
 /* /slider */
